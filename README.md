@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌌 Dharati M  
-### MERN Stack Developer · Aspiring Data Analyst
+### MERN Stack Developer ·
 
 ---
 
